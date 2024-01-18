@@ -9,4 +9,4 @@ Disclaimer: Do not event ask me why I reinvent the wheel. The project does not a
 
 ## Contributors
 
-- [Akio Sarkiz](https://github.com/AkioSarkiz)
+- [Dmytro Laptiev](https://github.com/AkioSarkiz)
